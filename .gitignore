@@ -5,6 +5,7 @@
 # *.csv and *.tsv files
 *.csv
 *.tsv
+*.txt
 
 # User-specific stuff
 .idea/**/workspace.xml
